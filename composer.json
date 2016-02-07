@@ -1,6 +1,7 @@
 {
     "name": "roysegall/php_socket-io_client",
     "description": "Socket IO library",
+    "version": "1.0",
     "type": "Library",
     "license": "MIT",
     "authors": [
