@@ -1,0 +1,13 @@
+{
+    "name": "roysegall/php_socket-io_client",
+    "description": "Socket IO library",
+    "type": "Library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Roy Segall",
+            "email": "roy.segall@gizra.com"
+        }
+    ],
+    "require": {}
+}
